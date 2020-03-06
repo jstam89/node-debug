@@ -1,0 +1,8 @@
+
+		-	fix the errors
+		-	Level van een node staat verkeerd om. Bovenste node is eigenlijk level 1;
+		-	Eerste node edge level heeft geen waarde
+		- 	Zorg ervoor dat die aan het eindresultaat voldoet
+http://www.webgraphviz.com/
+
+
